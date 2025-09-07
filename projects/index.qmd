@@ -1,0 +1,26 @@
+---
+title: Projects
+---
+
+## Essential Genes in Triple Negative Breast Cancer
+
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://doi.org/10.1158/1538-7445.AM2025-6388', 'blank');"/>
+
+<a href="https://doi.org/10.1158/1538-7445.AM2025-6388" target="_blank">Cancer Research Abstract</a>
+
+During my internship at Mayo Clinic with Dr. John Hawse, I characterized genetic dependencies of Triple-Negative Breast Cancer (TNBC), an aggressive subtype with limited treatment options, to facilitate targeted treatment. I analyzed essentiality scores (DepMap) in breast cancer cell lines to identify specific genes whose expression was required specifically for TNBC cell viability. This inquiry identified six candidate genes (RHOA, CPTS1, PRKRA, RAD9A, HUS1, and RAD1) that were preferentially essential for TNBC cell viability compared to ER+ and non-transformed cells. Using over 40 breast cancer cell lines, I screened for the differential expression of the candidates and selected three TNBC cell lines and three ER+ HER2- cell lines to further characterize essentiality. I then used genetic silencing of CTPS1 and RAD1 to assess their impact on proliferation in TNBC cell lines using a luminescence-based viability assay and confirmed that that these two genes display subtype-specific dependencies. To discern their specific roles in TNBC viability, I examined the effects of CTPS1 and RAD1 silencing on the cell cycle and apoptosis. Cell cycle analyses with propidium iodide indicated that CTPS1 silencing leads to S-phase cell cycle arrest, while caspase 3/7 activity assays revealed no impact on apoptosis when CTPS1 was lost. Lastly, I independently identified a pharmaceutical company (StepPharma) that was developing a CTPS1 inhibitor. The company has since partnered with the Hawse lab, and they are investigating the impact of CTPS1 inhibition on breast and ovarian cancers. Notably, this led to a phase I clinical trial in solid tumors that was initiated in August 2024. These findings suggest that CTPS1 is a targetable vulnerability in TNBC. This work – on which I will be a coauthor – is currently in preparation for publication.
+
+----
+
+## Characterization of Total Antioxidant Capacity in Brewed COcoa
+
+<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+
+My research experience began under the guidance of Dr. Lee Baron at Hillsdale College. Dr. Baron’s research focuses on understanding the chemistry of antioxidants in health foods that provide protection from radical oxygen species (ROS). My investigation centered on relating the previously established health benefits of antioxidant consumption to cocoa. Often cocoa is alkalized to raise the pH and increase solubility in water. Previous research indicated that alkalization decreased the total antioxidant capacity (TAC) of alkalized cocoa powder. However, these studies used a hexane defatting process to prepare samples, likely removing the hydrophobic flavonoids that contribute to TAC. In contrast, this study examined cocoa in its commonly consumed form – as a brewed beverage. Cocoa samples were brewed using a French press and analyzed daily for pH, percent total dissolved solids (%TDS), conductivity, and TAC. TAC was measured as a function of 2,2-diphenyl-1-picrylhydrazyl (DPPH) IC50. Thus, an analyte with a lower IC50 has a higher overall antioxidant capacity. I developed the DPPH assay for use on brewed beverage and performed it using brewed cocoa of varying alkalization levels from the brands King Arthur Baking, Hershey’s, and Ghirardelli. Across all three brands, the alkalized cocoa brews had lower IC50 values, indicating a higher TAC. Doubly-alkalized “black cocoa” from King Arthur Baking had the lowest recorded IC50. Increased TAC can be attributed in part to greater solubility of the contributing compounds due to the increased pH of the solution. Furthermore, the assay I developed has remained in use as the lab investigated TAC of coffee and tea. 
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
